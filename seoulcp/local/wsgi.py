@@ -1,0 +1,1 @@
+/home/ubuntu/seoulcp/seoulcp/wsgi.py
